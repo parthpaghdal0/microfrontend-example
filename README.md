@@ -2,8 +2,6 @@
 
 This is a Svelte project that compiles to a single JS file that can be published and ingested by other app-shells in a micro-frontend manner.
 
-[Micro Frontends](https://micro-frontends.org/)
-
 ## Build project
 `npm run build`
 
